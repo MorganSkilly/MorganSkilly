@@ -12,7 +12,7 @@
 I’m focused on developing real-time virtual production workflows using **Unreal Engine** and **LED volumes**, with an emphasis on making environments **art-directable and flexible** on stage.
 
 ### 🎓 MSc Project: [Realtime Roads](https://github.com/Realtime-Roads-Team)
-I am the **sole developer** of this toolset and system for the **real-time generation of driving environments** — a modern alternative to traditional 2D driving plates.
+I am developing this toolset and system for the **real-time generation of driving environments** — a modern alternative to traditional 2D driving plates.
 
 This approach removes the need for multi-camera plate capture and enables:
 - Live scene adjustments during takes
