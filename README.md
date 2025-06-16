@@ -1,18 +1,18 @@
 # Morgan Skillicorn
 
-🛠 Technical Artist for Virtual Production | MSc Technical Art & VFX  
-🎮 Real-time pipelines | Houdini tools | Unreal Engine | Mocap systems  
+🛠 Virtual Production Technical Artist | MSc Technical Art & VFX  
+🎮 Real-time Unreal Engine pipelines for film
 
 ---
 
 ## 🎬 Current Focus
 
-I’m developing real-time driving plate environments for LED volumes, with a strong focus on:
+I’m developing real-time, procedural, driving plate environments for LED volumes, with a strong focus on:
 
 - 🚗 **Procedural road systems** using Houdini and UE5
-- 🧩 **Custom tools** for camera layout, projection, and scene control
+- 🧩 **Custom tools** for content generation and VP pipelines
 - 🎥 **Virtual Production-ready assets** optimized for nDisplay workflows
-- 🕴 **Motion capture integration** for live and pre-recorded use
+- 🕴 **Motion capture** for live and pre-recorded use
 - 🧵 **Performance-aware tech art** across C++, Python, and Blueprints
 
 ---
@@ -22,20 +22,19 @@ I’m developing real-time driving plate environments for LED volumes, with a st
 | Area | Tools |
 |------|-------|
 | Engine | Unreal Engine 5 (Blueprints, C++, nDisplay) |
-| Procedural | Houdini (HDA pipelines, PDG) |
-| Scripting | Python (tooling, automation), C++ |
-| Mocap | Vicon systems, retargeting pipelines |
-| ML/Support | PyTorch, Git, ShotGrid |
+| Procedural | Houdini (HDA pipelines) |
+| Scripting | C++, C#, Python |
+| Mocap Systems | Vicon, Mo-Sys, retargeting pipelines |
 
 ---
 
-## 🧰 Projects
+## 🧰 Featured Projects
 
 - **nDisplayMeshTool**  
-  Unreal Engine plugin to generate mesh layouts for LED volumes from CSV configs.
+  Unreal Engine plugin to generate mesh layouts for LED volumes.
 
 - **Real-time Driving Plates** *(MSc Project)*  
-  Procedural Houdini-UE5 toolchain for fast, scalable road scenes used in VP stage simulation.
+  Procedural Houdini-UE5 toolchain for fast, scalable road scenes used on VP stages.
 
 - **Moiré Pattern Classifier**  
   CNN-based pipeline for detecting LED moiré artifacts in rendered frames.
@@ -51,4 +50,4 @@ Originally from the Isle of Man, I’m focused on building robust and flexible t
 ## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/morganskillicorn/)
-- [Portfolio / WIP](https://morganskillicorn.com/) *(if live)*
+- [Website](https://morganskilly.com/)
