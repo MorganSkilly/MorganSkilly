@@ -1,10 +1,54 @@
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Discord API](https://img.shields.io/badge/Discord%20API-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
+# Morgan Skillicorn
+
+🛠 Technical Artist for Virtual Production | MSc Technical Art & VFX  
+🎮 Real-time pipelines | Houdini tools | Unreal Engine | Mocap systems  
+
+---
+
+## 🎬 Current Focus
+
+I’m developing real-time driving plate environments for LED volumes, with a strong focus on:
+
+- 🚗 **Procedural road systems** using Houdini and UE5
+- 🧩 **Custom tools** for camera layout, projection, and scene control
+- 🎥 **Virtual Production-ready assets** optimized for nDisplay workflows
+- 🕴 **Motion capture integration** for live and pre-recorded use
+- 🧵 **Performance-aware tech art** across C++, Python, and Blueprints
+
+---
+
+## 🔧 Toolset
+
+| Area | Tools |
+|------|-------|
+| Engine | Unreal Engine 5 (Blueprints, C++, nDisplay) |
+| Procedural | Houdini (HDA pipelines, PDG) |
+| Scripting | Python (tooling, automation), C++ |
+| Mocap | Vicon systems, retargeting pipelines |
+| ML/Support | PyTorch, Git, ShotGrid |
+
+---
+
+## 🧰 Projects
+
+- **nDisplayMeshTool**  
+  Unreal Engine plugin to generate mesh layouts for LED volumes from CSV configs.
+
+- **Real-time Driving Plates** *(MSc Project)*  
+  Procedural Houdini-UE5 toolchain for fast, scalable road scenes used in VP stage simulation.
+
+- **Moiré Pattern Classifier**  
+  CNN-based pipeline for detecting LED moiré artifacts in rendered frames.
+
+---
+
+## 📍 About Me
+
+Originally from the Isle of Man, I’m focused on building robust and flexible technical art workflows for LED stages and virtual production. I bring a background in game design with a forward-looking focus on stage-ready toolchains and performance-driven solutions.
+
+---
+
+## 📫 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/morganskillicorn/)
+- [Portfolio / WIP](https://morganskillicorn.com/) *(if live)*
